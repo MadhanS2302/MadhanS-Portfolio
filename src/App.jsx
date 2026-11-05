@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import heroPhoto from './assets/Madhan Passport photo Main1.jpg';
-import resumePDF from './assets/Madhan Shanmugam Resume Final.pdf';
+import resumePDF from "./assets/Madhan_Shanmugam_Resume __.pdf";
 
 
 
